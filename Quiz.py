@@ -103,14 +103,14 @@ else:
 answer = input ("Here are the credits. Say start to start the credits.")
 
 if answer == " start":
-    print("Developer: Eleven Aviation#1402")
+    print("Developer: Spooky Eleven#8872")
     "/n"
-    print("Question maker: Eleven Aviation#1402")
+    print("Question maker: Spooky Eleven#8872")
     "/n"
-    print("Copyright owner: Eleven Aviation#1402")
+    print("Copyright owner: Spooky Eleven#8872")
     "/n"
-    print("Eleven Aviation#1402's channel: www.youtube.com/c/IsabelRibeiro2021")
+    print("Spooky Eleven#8872's channel: www.youtube.com/c/IsabelRibeiro2021")
     "/n"
-    print("Eleven Aviation #1402 is not plausible for any damages to your computer.")
+    print("Spooky Eleven#8872 is not plausible for any damages to your computer.")
     "/n"
-    print("For support message Eleven Aviation#1402 on discord, or shoot an email to fakeeurovisionsongcontest@gmail.com")
+    print("For support message Spooky Eleven#8872 on discord, or shoot an email to fakeeurovisionsongcontest@gmail.com")
